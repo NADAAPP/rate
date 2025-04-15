@@ -1,10 +1,8 @@
 {
-  "ratingMessage": {
-    "showRating": true,
-    "title": "¿Estás disfrutando de la aplicación?",
-    "message": "¡Nos encantaría conocer tu opinión! Por favor, califica la aplicación en la Play Store.",
-    "positiveButton": "Calificar ahora",
-    "negativeButton": "Más tarde",
-    "launchThreshold": 5
-  }
+  "showRating": true,
+  "title": "Enjoying our app?",
+  "message": "Please rate us!",
+  "positiveButton": "Rate Now",
+  "negativeButton": "Later",
+  "launchThreshold": 3
 }
