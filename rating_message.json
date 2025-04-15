@@ -1,7 +1,7 @@
 {
   "showRating": true,
   "title": "Enjoying our app?",
-  "message": "Please rate us!",
+  "message": "Please rate us if you are the best",
   "positiveButton": "Rate Now",
   "negativeButton": "Later",
   "launchThreshold": 3
