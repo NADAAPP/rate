@@ -1,5 +1,5 @@
 {
-  "showRating": false,
+  "showRating": true,
   "title": "Enjoying our app?",
   "message": "Please rate us!",
   "positiveButton": "Rate Now",
