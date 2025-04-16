@@ -1,8 +1,8 @@
 {
-  "showRating": false,
-  "title": "Do you like our app?",
-  "message": "Rate us on Google Play!",
-  "positiveButton": "Rate Now",
-  "negativeButton": "Later",
-  "launchThreshold": 3
+  "showRating": true,
+  "title": "¿Te gusta nuestra app?",
+  "message": "¡Tu opinión es muy importante para nosotros! Déjanos una reseña en Google Play y ayúdanos a seguir mejorando.",
+  "positiveButton": "Calificar ahora",
+  "negativeButton": "Más tarde",
+  "launchThreshold": 6
 }
