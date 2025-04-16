@@ -4,5 +4,5 @@
   "message": "Rate us on Google Play!",
   "positiveButton": "Rate Now",
   "negativeButton": "Later",
-  "launchThreshold": 6
+  "launchThreshold": 3
 }
