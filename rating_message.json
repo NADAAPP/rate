@@ -1,8 +1,8 @@
 {
   "showRating": true,
-  "title": "Enjoying our app?",
-  "message": "Please rate us if you are the best",
+  "title": "Do you like our app?",
+  "message": "Rate us on Google Play!",
   "positiveButton": "Rate Now",
   "negativeButton": "Later",
-  "launchThreshold": 3
+  "launchThreshold": 6
 }
