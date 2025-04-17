@@ -1,8 +1,8 @@
 {
   "showRating": true,
-  "title": "¿Te gusta nuestra app?toooop",
+  "title": "¿Te gusta nuestra app?",
   "message": "¡Tu opinión es muy importante para nosotros! Déjanos una reseña en Google Play y ayúdanos a seguir mejorando.",
   "positiveButton": "Calificar ahora",
   "negativeButton": "Más tarde",
-  "launchThreshold": 2
+  "launchThreshold": 6
 }
